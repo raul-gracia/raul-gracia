@@ -55,5 +55,5 @@ other talented IT professionals in creating websites to the very highest standar
 
 ## My Latests Articles
 <!-- BLOG-POST-LIST:START -->
- 
+- [Automation setup of new Mac and dotfiles synchronisation](https://medium.com/digital-rain/automation-setup-of-new-mac-and-dotfiles-synchronisation-57a3b82a1eae?source=rss----148793bf3078---4)
 <!-- BLOG-POST-LIST:END -->
