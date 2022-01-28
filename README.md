@@ -1,7 +1,14 @@
 # Software Engineer
 
-I'm a senior software engineer with **10+ years** of experience, who is able to work alongside
-other talented IT professionals in creating websites to the very highest standards.
+I'm a senior software engineer with 10+ years of experience, 
+who is able to work alongside other talented IT professionals 
+in creating websites to the very highest standards.
+
+Currently working with:
+- Ruby On Rails
+- Elixir
+- Phoenix and LiveView and Livebook
+- Tailwindcss
 
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgracialario)
@@ -53,7 +60,8 @@ other talented IT professionals in creating websites to the very highest standar
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?logo=heroku&logoColor=white&style=for-the-badge)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind%20Css-%2338B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-## My Latests Articles
-<!-- BLOG-POST-LIST:START -->
-- [Automation setup of new Mac and dotfiles synchronisation](https://medium.com/digital-rain/automation-setup-of-new-mac-and-dotfiles-synchronisation-57a3b82a1eae?source=rss----148793bf3078---4)
-<!-- BLOG-POST-LIST:END -->
+#### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=raul-gracia&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raul-gracia&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raul-gracia&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
