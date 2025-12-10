@@ -1,22 +1,24 @@
 # Software Engineer
 
-I'm a senior software engineer with 10+ years of experience, 
-who is able to work alongside other talented IT professionals 
-in creating websites to the very highest standards.
+Full-stack engineer with 15+ years specializing in Ruby/Rails and Elixir/Phoenix ecosystems. Creator of an [Ash Framework translation library](https://github.com/raul-gracia/ash_phoenix_translations) and active open source contributor. Experienced in building scalable applications with LiveView and modern web technologies.
 
 Currently working with:
+
 - Ruby On Rails
 - Elixir
 - Phoenix and LiveView and Livebook
+- Ash Framework
 - Tailwindcss
 
 ## Social Media
+
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgracialario)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/digital-rain)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?&style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/raulgracia.bsky.social)
 <br>
 
 ## Tech Stack
+
 #### Languages
 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
@@ -51,6 +53,7 @@ Currently working with:
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?logo=ansible&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E434AA?logo=graphql&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![DataDog](https://img.shields.io/badge/Datadog-%23632CA6?logo=datadog&logoColor=white&style=for-the-badge)
@@ -65,12 +68,12 @@ Currently working with:
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white&style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-%23D97757?logo=claude&logoColor=white&style=for-the-badge)
-
+![Gemini](https://img.shields.io/badge/Gemini-%238E75B2?logo=googlegemini&logoColor=white&style=for-the-badge)
 
 #### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=raul-gracia&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raul-gracia&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raul-gracia&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raul-gracia&theme=github-light&hide_border=true&mode=weekly)](https://git.io/streak-stats)<br/>
 
 #### Support
+
 <a href="https://www.buymeacoffee.com/raulgracia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raulgracia" /></a>
