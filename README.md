@@ -15,7 +15,7 @@ Currently working with:
 ## Open Source
 
 - **[ash_phoenix_translations](https://github.com/raul-gracia/ash_phoenix_translations).** Policy-aware translation extension for Ash Framework with multi-backend support, [published on Hex](https://hex.pm/packages/ash_phoenix_translations).
-- **WebAuthn/Passkey support for Ash Authentication.** Designed and built the strategy (DSL entity, transformer, verifier, actions, Phoenix components), landed via [ash_authentication#1159](https://github.com/team-alembic/ash_authentication/pull/1159) and its Phoenix companion [ash_authentication_phoenix#734](https://github.com/team-alembic/ash_authentication_phoenix/pull/734).
+- **WebAuthn/Passkey support for Ash Authentication.** Designed and built the initial strategy (DSL entity, transformer, verifier, actions) and its first Phoenix components, then extended and landed by the Ash Authentication maintainer via [ash_authentication#1159](https://github.com/team-alembic/ash_authentication/pull/1159) and its Phoenix companion [ash_authentication_phoenix#734](https://github.com/team-alembic/ash_authentication_phoenix/pull/734).
 - **[webauthn_demo](https://github.com/raul-gracia/webauthn_demo).** Live Phoenix LiveView demo of the WebAuthn/Passkey strategy above.
 - **[claude-code-elixir-plus](https://github.com/raul-gracia/claude-code-elixir-plus).** Claude Code plugin adding Elixir/Phoenix/Ash thinking skills and pre-commit hooks.
 - **[shortcuts-tui](https://github.com/raul-gracia/shortcuts-tui).** Terminal-based keyboard shortcuts cheat sheet with fuzzy search, integrating with Zellij, tmux, and Neovim.
