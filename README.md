@@ -1,19 +1,29 @@
-# Software Engineer
+# Senior Elixir Engineer
 
-Full-stack engineer with 15+ years specializing in Ruby/Rails and Elixir/Phoenix ecosystems. Creator of an [Ash Framework translation library](https://github.com/raul-gracia/ash_phoenix_translations) and active open source contributor. Experienced in building scalable applications with LiveView and modern web technologies.
+Senior Elixir engineer building production systems with Phoenix, OTP, and Ash Framework, currently focused on AI agent systems. 15+ years across Ruby/Rails and Elixir/Phoenix, with an open-source record that includes a merged WebAuthn/Passkey contribution to Ash Authentication (see below).
+
+I write about Elixir and Ash Framework, including production AI agent work, on [the blog](https://blog.digitalchronos.app/). Open to new opportunities. Reach out on [LinkedIn](https://www.linkedin.com/in/raulgracialario) or through the blog's [work-with-me page](https://blog.digitalchronos.app/work-with-me/).
 
 Currently working with:
 
-- Ruby On Rails
 - Elixir
-- Phoenix and LiveView and Livebook
+- Phoenix, LiveView, Livebook
 - Ash Framework
-- Tailwindcss
+- OTP
+- Ruby on Rails
+
+## Open Source
+
+- **[ash_phoenix_translations](https://github.com/raul-gracia/ash_phoenix_translations).** Policy-aware translation extension for Ash Framework with multi-backend support, [published on Hex](https://hex.pm/packages/ash_phoenix_translations).
+- **WebAuthn/Passkey support for Ash Authentication.** Designed and built the strategy (DSL entity, transformer, verifier, actions, Phoenix components), landed via [ash_authentication#1159](https://github.com/team-alembic/ash_authentication/pull/1159) and its Phoenix companion [ash_authentication_phoenix#734](https://github.com/team-alembic/ash_authentication_phoenix/pull/734).
+- **[webauthn_demo](https://github.com/raul-gracia/webauthn_demo).** Live Phoenix LiveView demo of the WebAuthn/Passkey strategy above.
+- **[claude-code-elixir-plus](https://github.com/raul-gracia/claude-code-elixir-plus).** Claude Code plugin adding Elixir/Phoenix/Ash thinking skills and pre-commit hooks.
+- **[shortcuts-tui](https://github.com/raul-gracia/shortcuts-tui).** Terminal-based keyboard shortcuts cheat sheet with fuzzy search, integrating with Zellij, tmux, and Neovim.
 
 ## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgracialario)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/digital-rain)
+[![Blog](https://img.shields.io/badge/Blog-%23111111.svg?&style=for-the-badge&logo=ghost&logoColor=white)](https://blog.digitalchronos.app/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?&style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/raulgracia.bsky.social)
 <br>
 
